@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9933FF&center=true&vCenter=true&width=750&lines=Cloud+Security+Engineer;C+%7C+javascript+%7C+Shell+%7C+Linux" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9933FF&center=true&vCenter=true&width=750&lines=Cloud+Security+Engineer;C+%7C+JavaScript+%7C+Shell+%7C+Linux" alt="Typing SVG"/>
   <h1>🔮 ZAKARIA </h1>
   <p><strong>Systems Programmer · Cloud Security Engineer in Progress</strong></p>
   <a href="https://discord.com/users/zak07"><img src="https://img.shields.io/badge/Discord-zak07-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 
 <h2 align="center">🎯 [SYSTEM OVERVIEW & BIOGRAPHY]</h2>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=800&color=9933FF&center=true&vCenter=true&width=700&lines=⚡+Age%3A+21+Years+Old;⚡+Target%3A+Preparing+for+1337+School;⚡+Focus%3A+Cloud+Security+·+Cybersecurity+·+Pentesting;⚡+Mission%3A+Transitioning+from+Code+to+Cloud+Security" alt="Dynamic Bio"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=800&color=9933FF&center=true&vCenter=true&width=700&lines=⚡+Target%3A+Software+Engineering+%26+Systems;⚡+Focus%3A+Low-Level+%middot+Cloud+Security+%middot+Pentesting;⚡+Mission%3A+Building+Robust+Systems+from+Scratch" alt="Dynamic Bio"/>
 </div>
 
 <br><hr><br>
@@ -40,17 +40,19 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=9933FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Compilation+successful.+No+memory+leaks." alt="Footer SVG" />
 </div>
-## GitHub Stats
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
       <td width="50%" valign="middle" align="center">
-        <img src="https://ghstats.dev/api/card?username=certus-sec&theme=tokyonight" width="100%" style="max-width: 550px;" />
+        <!-- بدل zaks66 باسم الحساب ديالك الحقيقي فـ GitHub -->
+        <img src="https://github-readme-stats.vercel.app/api?username=zaks66&theme=tokyonight&hide_border=true&show_icons=true" width="100%" style="max-width: 550px;" />
       </td>
       <td width="50%" valign="top" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=certus-sec&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
-        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=certus-sec&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaks66&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
       </td>
     </tr>
   </table>
