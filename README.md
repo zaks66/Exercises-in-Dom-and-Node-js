@@ -47,11 +47,12 @@
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
       <td width="50%" valign="middle" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=zaks66&theme=tokyonight&hide_border=true&show_icons=true" width="100%" style="max-width: 550px;" alt="GitHub Stats" />
+        <!-- استعملنا سيرفر بديل ومستقر 100% -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaks66&theme=tokyonight" width="100%" style="max-width: 550px;" alt="GitHub Stats" />
       </td>
       <td width="50%" valign="top" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaks66&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/langs-per-language?username=zaks66&theme=tokyonight" alt="Top Languages" width="100%" style="max-width: 450px;" />
       </td>
     </tr>
   </table>
