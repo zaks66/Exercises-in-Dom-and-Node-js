@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9933FF&center=true&vCenter=true&width=750&lines=Cloud+Security+Engineer;C+%7C+JavaScript+%7C+Shell+%7C+Linux" alt="Typing SVG"/>
   <h1>🔮 ZAKARIA </h1>
   <p><strong>Systems Programmer · Cloud Security Engineer in Progress</strong></p>
-  <a href="https://discord.com/users/zak07"><img src="https://img.shields.io/badge/Discord-zak07-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/zaks66"><img src="https://img.shields.io/badge/Discord-zaks66-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 <br><hr><br>
@@ -47,7 +47,7 @@
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
       <td width="50%" valign="middle" align="center">
-        <!-- بدل zaks66 باسم الحساب ديالك الحقيقي فـ GitHub -->
+        <!-- بدل zaks66 باسم الحسابGitHub -->
         <img src="https://github-readme-stats.vercel.app/api?username=zaks66&theme=tokyonight&hide_border=true&show_icons=true" width="100%" style="max-width: 550px;" />
       </td>
       <td width="50%" valign="top" align="center">
