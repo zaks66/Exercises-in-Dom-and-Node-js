@@ -41,20 +41,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=9933FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Compilation+successful.+No+memory+leaks." alt="Footer SVG" />
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Metrics & Status</h2>
 
 <div align="center">
-  <table border="0" cellpadding="20" cellspacing="0" width="100%">
-    <tr> 
-      <td width="50%" valign="middle" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=zaks66&theme=tokyonight&hide_border=true&show_icons=true" width="100%" style="max-width: 550px;" alt="GitHub Stats" />
-      </td>
-      <td width="50%" valign="top" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaks66&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
-      </td>
-    </tr>
-  </table>
+  <br>
+  <!-- شارات الإحصائيات البديلة والثابتة 100% -->
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-zaks66-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Core-C%20%7C%20JavaScript%20%7C%20Shell-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Environment-Linux%20%2F%20WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
+  <br>
+  <!-- بطاقة الأيام المتتالية (Streak) حيت هي الوحيدة اللي كاتخدم مزيان -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" alt="Streak Stats" style="max-width: 500px; width: 100%;" />
 </div>
 
 ---
