@@ -36,4 +36,29 @@
 </table>
 
 <br><hr><br>
-<h2 align="center">🏁 [SYSTEM
+<h2 align="center">🏁 [SYSTEM TERMINATION]</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=9933FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Compilation+successful.+No+memory+leaks." alt="Footer SVG" />
+</div>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <table border="0" cellpadding="20" cellspacing="0" width="100%">
+    <tr> 
+      <td width="50%" valign="middle" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=zaks66&theme=tokyonight&hide_border=true&show_icons=true" width="100%" style="max-width: 550px;" alt="GitHub Stats" />
+      </td>
+      <td width="50%" valign="top" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaks66&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" />
+</p>
