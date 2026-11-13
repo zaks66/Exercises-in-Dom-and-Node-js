@@ -52,7 +52,6 @@
     <img src="https://img.shields.io/badge/Environment-Linux%20%2F%20WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
   <br>
-  <!-- بطاقة الأيام المتتالية (Streak) حيت هي الوحيدة اللي كاتخدم مزيان -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaks66&theme=tokyonight&hide_border=true" alt="Streak Stats" style="max-width: 500px; width: 100%;" />
 </div>
 
