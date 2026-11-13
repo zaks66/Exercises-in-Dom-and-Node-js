@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9933FF&center=true&vCenter=true&width=750&lines=Cloud+Security+Engineer;C+%7C+Python+%7C+Shell+%7C+Linux" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9933FF&center=true&vCenter=true&width=750&lines=Cloud+Security+Engineer;C+%7C+javascript+%7C+Shell+%7C+Linux" alt="Typing SVG"/>
   <h1>🔮 ZAKARIA </h1>
   <p><strong>Systems Programmer · Cloud Security Engineer in Progress</strong></p>
   <a href="https://discord.com/users/zak07"><img src="https://img.shields.io/badge/Discord-zak07-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
