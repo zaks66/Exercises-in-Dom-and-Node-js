@@ -45,7 +45,6 @@
 
 <div align="center">
   <br>
-  <!-- شارات الإحصائيات البديلة والثابتة 100% -->
   <p>
     <img src="https://img.shields.io/badge/GitHub-zaks66-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Core-C%20%7C%20JavaScript%20%7C%20Shell-00599C?style=for-the-badge&logo=c&logoColor=white" />
